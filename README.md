@@ -1,4 +1,4 @@
-## This is a standalone binary of the dank16 color generated from DankMaterialShell.
+## This is a standalone binary of the dank16 color generator from DankMaterialShell.
 
 ### Usage:
 - Build with:
