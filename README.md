@@ -1,4 +1,4 @@
-## This is a standalone binary of the dank16 color generator from DankMaterialShell.
+## A small tool to generate a base-16 color palette from a hex color (could be used in conjunction with a wallpaper color extractor like matugen).
 
 ### Usage:
 - Build with:
